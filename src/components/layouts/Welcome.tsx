@@ -47,7 +47,7 @@ const Welcome: React.FC<Props> = ({ onClick, className }) => {
             </div>
           </div>
           <div className="date-wedding animate__animated animate__zoomIn animate__delay-3s">
-            <div className="first-day">Chủ nhật</div>
+            <div className="first-day">Thứ 7</div>
             <div className="day">
               <ul>
                 <li>Tháng 05</li>
@@ -55,7 +55,7 @@ const Welcome: React.FC<Props> = ({ onClick, className }) => {
                 <li>2025</li>
               </ul>
             </div>
-            <div className="time">11:15 AM</div>
+            <div className="time">15:00</div>
           </div>
           <div
             onClick={onClick}
