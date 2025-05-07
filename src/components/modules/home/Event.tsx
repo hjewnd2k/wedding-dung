@@ -32,7 +32,7 @@ const data = [
   {
     image: Event2,
     title: 'Lễ Vu Quy',
-    time: '17:30 Chiều - Thứ 6, 16/05/2025',
+    time: '13:30 Chiều - Thứ 7, 17/05/2025',
     address: 'Thôn Xuân Hội, Xã Lạc Vệ, Huyện Tiên Du, Tỉnh Bắc Ninh',
     map: 'https://maps.app.goo.gl/twUkxMN8XFpyactT7',
   },

@@ -146,7 +146,7 @@ export const Navigation = () => {
             />
           </Link>
           <SheetHeader className="mt-1.5 items-center">
-            <SheetTitle>Tuấn Dũng ❤️ Thị Giang</SheetTitle>
+            <SheetTitle>Tuấn Dũng ❤️ Nguyễn Giang</SheetTitle>
             <SheetDescription />
           </SheetHeader>
           <div className="mt-2 flex flex-col">

@@ -38,7 +38,7 @@ export const Footer: React.FC<Props> = ({ className }) => {
             viewport={{ once: true }}
             className="will-change-transform-opacity"
           >
-            Tuấn Dũng ❤️ Thị Giang - Wedding 2025
+            Tuấn Dũng ❤️ Nguyễn Giang - Wedding 2025
           </motion.p>
         </Typography>
       </div>

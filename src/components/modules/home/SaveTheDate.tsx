@@ -112,7 +112,7 @@ export const SaveTheDate = () => {
                   viewport={{ once: true }}
                   className="inline-block will-change-transform-opacity"
                 >
-                  Thị Giang
+                  Nguyễn Giang
                 </motion.p>
               </h3>
             </Typography>

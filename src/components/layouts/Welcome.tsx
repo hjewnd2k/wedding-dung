@@ -42,7 +42,7 @@ const Welcome: React.FC<Props> = ({ onClick, className }) => {
             </div>
             <div className="bride w-full px-2 md:w-4/12">
               <h2 className="bride-name animate__animated animate__backInRight animate__slower animate__delay-0-5s">
-                Thị Giang
+                Nguyễn Giang
               </h2>
             </div>
           </div>
