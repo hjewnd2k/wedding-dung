@@ -73,7 +73,7 @@ export const SendWishes = () => {
   const onSubmit = async (data: z.infer<typeof FormSchema>) => {
     setLoading(true);
     await fetch(
-      'https://script.google.com/macros/s/AKfycbwcIsJzsj5yBZtSdxOVX67XRZlilzpeLPU22kXHlHeZ1fAr57tRgAZ8rBbBGU6S506D9A/exec',
+      'https://script.google.com/macros/s/AKfycbxLRdBsxe30bJqfK6nrFVFrESqOv--cHXH-w94oHC5Rcvo-kiSCYmZOmEpX4Ga8ttBjyA/exec',
       {
         method: 'POST',
         mode: 'no-cors',
